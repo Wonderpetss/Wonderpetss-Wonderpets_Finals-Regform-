@@ -1,4 +1,4 @@
-import styles from "./Mema.module.css";
+import styles from "./RegForm.module.css";
 import { useState } from 'react';
 import axios  from 'axios';
 
