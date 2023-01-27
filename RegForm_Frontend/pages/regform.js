@@ -1,6 +1,6 @@
-import Mema from "../components/Mema"
+import RegForm from "../components/RegForm"
 
-const quack = () => {
+const regform = () => {
   return (
     <div>
       <section>
@@ -10,4 +10,4 @@ const quack = () => {
   );
 }
 
-export default quack;
+export default regform;
